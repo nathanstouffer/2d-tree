@@ -1,1 +1,3 @@
-2d-tree
+# 2d-tree
+
+An implementation of a kd-tree for k = 2.
