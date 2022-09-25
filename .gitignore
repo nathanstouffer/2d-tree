@@ -1,0 +1,6 @@
+# VS config
+.vs/
+
+# VS build directories
+x64/
+
